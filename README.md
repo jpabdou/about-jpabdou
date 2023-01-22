@@ -29,12 +29,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;   
 </div>
   
-  ---
-
-### My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpabdou&theme=dark)](https://git.io/streak-stats)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabdou&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpabdou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
