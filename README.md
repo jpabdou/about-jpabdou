@@ -1,6 +1,18 @@
 <h1>Hi there! I'm John Abdou!</h1>
 
-<h2>I'm a software engineer with expertise in front-end web development using JavaScript, HTML/CSS, and React.js and in back-end development using Express.js, Python, and Node.js and in relational database management using Knex.js with SQLite. I have worked for 8 years in various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electric nose sensors to diagnose COVID-19 at NASA. Throughout my career, I greatly enjoy solving problems and I found myself drawn to coding when I applied my knowledge of Python in automation and data analysis script projects at work. My enjoyment of programming in my work encouraged me to make a career change into web development by studying Full-Stack Web Development at BloomTech.<h2>
+<h2>I'm a software engineer with expertise using JavaScript, HTML/CSS, and React.js to build front-end focus features, Express.js, Python, and Node.js to configure backend components, and in relational database management, I have experience implementing Knex.js with SQLite.
+
+
+
+My career background consists of various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electric nose sensors to diagnose COVID-19 at NASA.
+
+
+
+Throughout my career, I greatly enjoy solving problems and I found myself drawn to coding when I applied my knowledge of Python in automation and data analysis to pro-actively contribute to major script projects. My enjoyment of programming encouraged me to pivot professionally into web development by studying hands-on Full-Stack Web Development at BloomTech. I'm currently exploring new tech tools, solutions, and project challenges! 
+
+
+
+Feel free to follow me here and connect with me on LinkedIn!<h2>
   
   ---
 
