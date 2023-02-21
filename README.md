@@ -1,6 +1,6 @@
 <h1>Hi there! I'm John Abdou!</h1>
 
-<h2>I'm a software engineer with expertise using JavaScript, HTML/CSS, and React.js to build front-end focus features, Express.js, Python, and Node.js to configure backend components, and in relational database management, I have experience implementing Knex.js with SQLite.
+<h2>I'm a software engineer with expertise using JavaScript, HTML/CSS, and React.js to build front-end focus features, Express.js, Python, and Node.js to configure backend components, and implementing Knex.js with SQLite in relational database management.
 <br></br>
 My career background consists of various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electronic nose sensors to diagnose COVID-19 at NASA.
 <br></br>
