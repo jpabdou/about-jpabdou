@@ -1,18 +1,18 @@
-<h1>Hi there! I'm John Abdou!</h1>
+### Hi there! I'm John Abdou!
 
-<h2>I'm a full stack web developer with expertise using JavaScript, HTML/CSS, and React.js to build front-end user features, Express.js, Node.js, and Python to create back-end APIs, and Knex.js implemented with SQLite to manage and organize relational databases.
-<br></br>
+I'm a full stack web developer with expertise using JavaScript, HTML/CSS, and React.js to build front-end user features, Express.js, Node.js, and Python to create back-end APIs, and Knex.js implemented with SQLite to manage and organize relational databases.
+
 My career background consists of various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electronic nose sensors to diagnose COVID-19 at NASA.
-<br></br>
+
 Throughout my career, I greatly enjoy solving problems and I found myself drawn to coding when I applied my knowledge of Python in automation and data analysis to pro-actively contribute to major script projects. My enjoyment of programming encouraged me to pivot professionally into web development by studying hands-on Full-Stack Web Development at BloomTech. I'm currently exploring new tech tools, solutions, and project challenges! 
-<br></br>
-Feel free to follow me here and connect with me on LinkedIn!</h2>
+
+Feel free to follow me here and connect with me on LinkedIn!
   
   ---
 
 ### Contact Me At:
-<ul><li><a href="https://www.linkedin.com/in/jpabdou/">My LinkedIn</a></li>
-<li><a href="mailto:johnpabdou@gmail.com">My Email</a></li></ul>
+- <a href="https://www.linkedin.com/in/jpabdou/">My LinkedIn</a>
+- <a href="mailto:johnpabdou@gmail.com">My Email</a>
   
   ---
 
