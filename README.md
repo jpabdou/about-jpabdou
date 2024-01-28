@@ -4,7 +4,7 @@ I'm a full stack web developer with expertise using JavaScript, TypeScript, HTML
 
 My career background consists of various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electronic nose sensors to diagnose COVID-19 at NASA.
 
-Throughout my career, I greatly enjoy solving problems and I found myself drawn to coding when I applied my knowledge of Python in automation and data analysis to pro-actively contribute to major script projects. My enjoyment of programming encouraged me to pivot professionally into web development by studying hands-on Full-Stack Web Development at BloomTech. I'm currently exploring new tech tools, solutions, and project challenges! 
+Throughout my career, I greatly enjoy solving problems and I found myself drawn to coding when I applied my knowledge of Python in automation and data analysis to proactively contribute to major script projects. My enjoyment of programming encouraged me to pivot professionally into web development by studying hands-on Full-Stack Web Development at BloomTech. I'm currently exploring new tech tools, solutions, and project challenges! 
 
 Feel free to follow me here and connect with me on LinkedIn!
   
