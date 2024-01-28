@@ -1,6 +1,6 @@
 ### Hi there! I'm John Abdou!
 
-I'm a full stack web developer with expertise using JavaScript, HTML/CSS, and React.js to build front-end user features, Express.js, Node.js, and Python to create back-end APIs, and Knex.js implemented with SQLite to manage and organize relational databases.
+I'm a full stack web developer with expertise using JavaScript, TypeScript, HTML/CSS, Next.js, and React.js to build front-end user features, Express.js, Node.js, Next.js, and Python to create back-end APIs, and Knex.js and Prisma to manage and organize relational databases, including SQLite and PostgreSQL.
 
 My career background consists of various chemistry roles from an analytical chemist characterizing the sugar content in food and beverage ingredients to a research scientist creating electronic nose sensors to diagnose COVID-19 at NASA.
 
